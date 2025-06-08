@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hutto-dev
-- 🌺 Self-taught Full-Stack Developer // Just starting out! Also a Parrothead 🌴🥥
+- 🌺 Self-taught Software Engineer // Just starting out! Also a Parrothead 🌴🥥
 - 💻 I’m currently learning everything I can get my hands on. At the moment, my main focus is React!
 - 📫 Say hi! tori@torihutto.dev
   
